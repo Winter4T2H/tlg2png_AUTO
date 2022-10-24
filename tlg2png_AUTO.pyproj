@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="batch_renamer.py" />
     <Compile Include="tlg2png_AUTO.py" />
   </ItemGroup>
   <ItemGroup>
